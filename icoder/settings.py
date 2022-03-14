@@ -29,7 +29,7 @@ SECRET_KEY = 'gkew&00%kgvl#b9bsusc3+#80fm2lw0!e56!g4)pzai65@v3(y'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','NewsHub.com']
+ALLOWED_HOSTS = ['127.0.0.1','my-blog-hub.herokuapp.com']
 
 # Application definition
 
