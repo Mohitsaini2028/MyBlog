@@ -24,11 +24,12 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # SECURITY WARNING: keep the secret key used in production secret!
 # SECRET_KEY = ''
 
+SECRET_KEY = 'gkew&00%kgvl#b9bsusc3+#80fm2lw0!e56!g4)pzai65@v3(y'
+
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = ['127.0.0.1','NewsHub.com']
 
 # Application definition
 
